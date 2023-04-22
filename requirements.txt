@@ -11,3 +11,5 @@ tzdata==2023.3
 urllib3==1.26.15
 vercel==0.2.1
 dj-database-url==1.0.0
+pytz==2022.5
+psycopg2-binary==2.9.5
