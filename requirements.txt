@@ -10,3 +10,4 @@ sqlparse==0.4.4
 tzdata==2023.3
 urllib3==1.26.15
 vercel==0.2.1
+dj_database_url
