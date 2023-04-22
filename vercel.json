@@ -21,7 +21,7 @@
         },
         {
             "src":"/(.*)",
-            "dest":"poll/wsgi.py"
+            "dest":"notes_/wsgi.py"
         }
     ]
 }
