@@ -13,3 +13,4 @@ vercel==0.2.1
 dj-database-url==1.0.0
 pytz==2022.5
 psycopg2-binary==2.9.5
+pysqlite3
