@@ -14,7 +14,6 @@ pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycryptodome==3.4.3
 pyparsing==3.0.9
-Pyrebase==3.0.27
 python-decouple==3.8
 python-dotenv==1.0.0
 python-jwt==2.0.1
